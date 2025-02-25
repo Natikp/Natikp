@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #8A2BE2;">✨ Nathalia Bernardo ✨</h1>
+<h1 align="center" style="color: #8A2BE2;"> Nathalia Bernardo </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=435&lines=Desenvolvedora+Salesforce;Estudante+de+Gestão+de+T.I;Transformando+Desafios+em+Inovações" alt="Typing Animation" />
@@ -7,8 +7,6 @@
 ---
 
 ## 🌟 Sobre Mim
-
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="200" alt="Coding GIF" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
@@ -20,7 +18,7 @@ Atualmente, estou cursando **Gestão de Tecnologia da Informação e Desenvolvim
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠 Tecnologias e Ferramentas
 
 <p align="center">
   <a href="#" onmouseover="this.innerHTML='🛠️ JavaScript'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black\' alt=\'JavaScript\' />'">
@@ -50,15 +48,19 @@ Atualmente, estou cursando **Gestão de Tecnologia da Informação e Desenvolvim
   <a href="#" onmouseover="this.innerHTML='💻 VS Code'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white\' alt=\'VS Code\' />'">
     <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </a>
+  <!-- Adicionando Bootstrap -->
+  <a href="#" onmouseover="this.innerHTML='🎨 Bootstrap'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white\' alt=\'Bootstrap\' />'">
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </a>
+  <!-- Adicionando Einstein Salesforce -->
+  <a href="#" onmouseover="this.innerHTML='🤖 Einstein'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-Einstein%20Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white\' alt=\'Einstein Salesforce\' />'">
+    <img src="https://img.shields.io/badge/-Einstein%20Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Einstein Salesforce" />
+  </a>
 </p>
 
 ---
 
-## 📈 Estatísticas e Relatórios Dinâmicos
-
-
-
-
+## 📊 Estatísticas e Relatórios Dinâmicos
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical" alt="Streak Stats" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
@@ -76,7 +78,7 @@ Atualmente, estou cursando **Gestão de Tecnologia da Informação e Desenvolvim
 
 ---
 
-## 🌱 O que estou explorando atualmente
+## 📚 O que estou explorando atualmente
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Learning GIF" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
@@ -88,7 +90,7 @@ Atualmente, estou cursando **Gestão de Tecnologia da Informação e Desenvolvim
 
 ---
 
-## 📫 Vamos Conectar?
+## 🌐 Vamos Conectar?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nathalia-bernardo-636488186/" onmouseover="this.innerHTML='🔗 LinkedIn'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white\' alt=\'LinkedIn\' />'">
@@ -101,7 +103,7 @@ Atualmente, estou cursando **Gestão de Tecnologia da Informação e Desenvolvim
 
 ---
 
-## 🎨 Footer Personalizado
+## 🎉 Footer Personalizado
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKsrf4gGBb5QZIQ/giphy.gif" width="100" alt="Footer GIF" onmouseover="this.style.transform='rotateY(20deg)'" onmouseout="this.style.transform='rotateY(0deg)'" />
