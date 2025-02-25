@@ -51,10 +51,9 @@ Atualmente, estou cursando **Gestão de Tecnologia da Informação e Desenvolvim
 
 ## 📈 Estatísticas e Relatórios Dinâmicos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical" alt="Estatísticas do GitHub" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical" alt="Linguagens mais usadas" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-</p>
+
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical" alt="Streak Stats" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
