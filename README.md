@@ -73,13 +73,17 @@ Atualmente, estou cursando **Gestão de Tecnologia da Informação e Desenvolvim
 
 ---
 
+
 ## 🚀 Projetos Destacados
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200" alt="Coding GIF" />
-</p>
 
-- **Em breve...** *(Aguardem! Em breve, compartilharei projetos que refletem minha paixão por inovação e tecnologia.)*
+
+- **Salesforce Commerce Cloud Projeto Bold Net Repository**: [Acesse o repositório no GitHub](https://github.com/Natikp/Salesforce-Commerce-Cloud)
+
+
+
+---
+
 
 ---
 
