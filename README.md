@@ -1,7 +1,7 @@
-<h1 align="center">✨ Nathalia Bernardo ✨</h1>
+<h1 align="center" style="color: #8A2BE2;">✨ Nathalia Bernardo ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A1E0&width=435&lines=Desenvolvedora+Salesforce;Estudante+de+Gestão+de+T.I;Transformando+Desafios+em+Inovações" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=435&lines=Desenvolvedora+Salesforce;Estudante+de+Gestão+de+T.I;Transformando+Desafios+em+Inovações" alt="Typing Animation" />
 </p>
 
 ---
@@ -24,11 +24,11 @@ Atualmente, estou cursando **Gestão de Tecnologia da Informação e Desenvolvim
   <a href="#" onmouseover="this.innerHTML='🛠️ JavaScript'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black\' alt=\'JavaScript\' />'">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
-  <a href="#" onmouseover="this.innerHTML='⚡ LWC'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white\' alt=\'LWC\' />'">
-    <img src="https://img.shields.io/badge/-LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="LWC" />
+  <a href="#" onmouseover="this.innerHTML='⚡ LWC'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-LWC-8A2BE2?style=for-the-badge&logo=salesforce&logoColor=white\' alt=\'LWC\' />'">
+    <img src="https://img.shields.io/badge/-LWC-8A2BE2?style=for-the-badge&logo=salesforce&logoColor=white" alt="LWC" />
   </a>
-  <a href="#" onmouseover="this.innerHTML='💻 Apex'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white\' alt=\'Apex\' />'">
-    <img src="https://img.shields.io/badge/-Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
+  <a href="#" onmouseover="this.innerHTML='💻 Apex'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-Apex-8A2BE2?style=for-the-badge&logo=salesforce&logoColor=white\' alt=\'Apex\' />'">
+    <img src="https://img.shields.io/badge/-Apex-8A2BE2?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
   </a>
   <a href="#" onmouseover="this.innerHTML='🌐 HTML5'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white\' alt=\'HTML5\' />'">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -52,12 +52,12 @@ Atualmente, estou cursando **Gestão de Tecnologia da Informação e Desenvolvim
 ## 📈 Estatísticas e Relatórios Dinâmicos
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark" alt="Estatísticas do GitHub" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark" alt="Linguagens mais usadas" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical" alt="Estatísticas do GitHub" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical" alt="Linguagens mais usadas" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark" alt="Streak Stats" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical" alt="Streak Stats" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
 </p>
 
 ---
@@ -87,11 +87,11 @@ Atualmente, estou cursando **Gestão de Tecnologia da Informação e Desenvolvim
 ## 📫 Vamos Conectar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nathalia-bernardo-636488186/" onmouseover="this.innerHTML='🔗 LinkedIn'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white\' alt=\'LinkedIn\' />'">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/nathalia-bernardo-636488186/" onmouseover="this.innerHTML='🔗 LinkedIn'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white\' alt=\'LinkedIn\' />'">
+    <img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:naah.bs3@outlook.com" onmouseover="this.innerHTML='📧 Email'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white\' alt=\'Email\' />'">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:naah.bs3@outlook.com" onmouseover="this.innerHTML='📧 Email'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white\' alt=\'Email\' />'">
+    <img src="https://img.shields.io/badge/-Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -104,7 +104,7 @@ Atualmente, estou cursando **Gestão de Tecnologia da Informação e Desenvolvim
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Desenvolvido%20por%20Nathalia%20Bernardo-00A1E0?style=for-the-badge&logo=github&logoColor=white" alt="Footer Badge" />
+  <img src="https://img.shields.io/badge/-Desenvolvido%20por%20Nathalia%20Bernardo-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Footer Badge" />
 </p>
 
 <p align="center">
