@@ -8,8 +8,10 @@
 
 ## 🌟 Sobre Mim
 
+
+
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding GIF" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="200" alt="Coding GIF" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
 </p>
 
 Sou uma **Desenvolvedora Salesforce** com **2 anos de experiência**, atuando principalmente no desenvolvimento de **Lightning Web Components (LWC)**. Meu foco está em criar interfaces dinâmicas, responsivas e altamente funcionais que elevam a experiência do usuário e otimizam processos empresariais. Embora tenha familiaridade com **Apex**, minha maior dedicação é ao frontend, onde consigo unir minha paixão por design, usabilidade e performance.
@@ -67,7 +69,7 @@ Atualmente, estou cursando **Gestão de Tecnologia da Informação e Desenvolvim
 ## 🚀 Projetos Destacados
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsrf4gGBb5QZIQ/giphy.gif" width="200" alt="Projects GIF" onmouseover="this.style.transform='rotateY(20deg)'" onmouseout="this.style.transform='rotateY(0deg)'" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200" alt="Coding GIF" />
 </p>
 
 - **Em breve...** *(Aguardem! Em breve, compartilharei projetos que refletem minha paixão por inovação e tecnologia.)*
