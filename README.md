@@ -30,6 +30,9 @@ Atualmente, estou cursando **Gestão de Tecnologia da Informação e Desenvolvim
   <a href="#" onmouseover="this.innerHTML='💻 Apex'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-Apex-8A2BE2?style=for-the-badge&logo=salesforce&logoColor=white\' alt=\'Apex\' />'">
     <img src="https://img.shields.io/badge/-Apex-8A2BE2?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
   </a>
+  <a href="#" onmouseover="this.innerHTML='🛒 Commerce Cloud'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-Commerce%20Cloud-8A2BE2?style=for-the-badge&logo=salesforce&logoColor=white\' alt=\'Commerce Cloud\' />'">
+    <img src="https://img.shields.io/badge/-Commerce%20Cloud-8A2BE2?style=for-the-badge&logo=salesforce&logoColor=white" alt="Commerce Cloud" />
+  </a>
   <a href="#" onmouseover="this.innerHTML='🌐 HTML5'" onmouseout="this.innerHTML='<img src=\'https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white\' alt=\'HTML5\' />'">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
