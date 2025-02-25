@@ -14,7 +14,7 @@
 
 Tenho 30 anos de idade e sou uma **Desenvolvedora Salesforce** com **2 anos de experiência**, atuando principalmente no desenvolvimento de **Lightning Web Components (LWC)**. Antes de ser desenvolvedora, fui 3 anos do suporte técnico HELPDESK, onde pude encarar questões desafiadoras como nível de suporte 3. Meu foco agora está em criar interfaces dinâmicas, responsivas e altamente funcionais que elevam a experiência do usuário e otimizam processos empresariais. Embora tenha familiaridade com **Apex**, minha maior dedicação é ao frontend, onde consigo unir minha paixão por design, usabilidade e performance.
 
-Atualmente, estou cursando **Gestão de Tecnologia da Informação e Desenvolvimento de Software no Senai**, onde tenho ampliado meus conhecimentos em gestão de projetos, arquitetura de sistemas e boas práticas de desenvolvimento. Acredito que a tecnologia deve ser tão intuitiva quanto poderosa, e é isso que busco entregar em cada projeto.
+Atualmente, estou cursando **Gestão de Tecnologia da Informação na faculdade, e Desenvolvimento de Sistemas no Senai**, onde tenho ampliado meus conhecimentos em gestão de projetos, arquitetura de sistemas e boas práticas de desenvolvimento. Acredito que a tecnologia deve ser tão intuitiva quanto poderosa, e é isso que busco entregar em cada projeto.
 
 ---
 
